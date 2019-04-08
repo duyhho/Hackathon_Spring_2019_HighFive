@@ -16,3 +16,6 @@
 [submodule "order-food-skill"]
 	path = order-food-skill
 	url = https://github.com/TondiToday/orderr-food-skill
+[submodule "skill-wemo-outlet"]
+	path = skill-wemo-outlet
+	url = https://github.com/cjk8zb/skill-wemo-outlet
