@@ -4,3 +4,6 @@
 [submodule "recipe-skill"]
 	path = recipe-skill
 	url = https://github.com/MaxGolden/recipe-skill
+[submodule "wake-word-model"]
+	path = wake-word-model
+	url = https://github.com/MaxGolden/Mycroft-wake-word-model
