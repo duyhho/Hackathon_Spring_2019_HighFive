@@ -7,3 +7,9 @@
 [submodule "wake-word-model"]
 	path = wake-word-model
 	url = https://github.com/MaxGolden/Mycroft-wake-word-model
+[submodule "grocery-list-skill"]
+	path = grocery-list-skill
+	url = https://github.com/evanwike/grocery-list-skill
+[submodule "test-message-skill"]
+	path = test-message-skill
+	url = https://github.com/evanwike/text-message-skill
