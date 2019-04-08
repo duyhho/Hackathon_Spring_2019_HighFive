@@ -13,3 +13,6 @@
 [submodule "test-message-skill"]
 	path = test-message-skill
 	url = https://github.com/evanwike/text-message-skill
+[submodule "order-food-skill"]
+	path = order-food-skill
+	url = https://github.com/TondiToday/orderr-food-skill
