@@ -1,3 +1,6 @@
 [submodule "white-noise-skill"]
 	path = white-noise-skill
 	url = https://github.com/benamreview/white-noise-skill
+[submodule "recipe-skill"]
+	path = recipe-skill
+	url = https://github.com/MaxGolden/recipe-skill
